@@ -1,0 +1,5 @@
+admin=Andrew_Ochieng
+pass=Omosh@_1476
+
+user1=Simon_Ochieng
+pass=Simon@_1234
