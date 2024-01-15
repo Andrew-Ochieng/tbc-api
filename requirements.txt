@@ -22,7 +22,6 @@ httpx==0.25.2
 idna==3.6
 packaging==23.2
 pillow==10.2.0
-pkg_resources==0.0.0
 postgrest==0.13.2
 psycopg2==2.9.9
 pydantic==2.5.3
