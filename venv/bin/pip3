@@ -1,4 +1,4 @@
-#!/home/code-x/Desktop/Dev-Jan.24/tbc_api/venv/bin/python
+#!/home/code-x/Desktop/Dev-Jan/tbc_api/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
