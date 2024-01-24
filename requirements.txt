@@ -1,9 +1,11 @@
 appdirs==1.4.4
+apturl==0.5.2
 asgiref==3.4.1
 bcrypt==3.1.7
 beautifulsoup4==4.8.2
 black==21.7b0
 blinker==1.4
+Brlapi==0.7.0
 CacheControl==0.12.6
 certifi==2019.11.28
 chardet==5.2.0
@@ -69,6 +71,7 @@ olefile==0.46
 packaging==23.1
 paramiko==2.6.0
 pathspec==0.8.1
+pbr==6.0.0
 pexpect==4.6.0
 Pillow==9.3.0
 protobuf==3.6.1
@@ -109,6 +112,7 @@ sqlparse==0.4.2
 ssh-import-id==5.10
 storage==0.0.4.3
 systemd-python==234
+testresources==2.0.1
 tomli==1.0.4
 torbrowser-launcher==0.3.2
 ttystatus==0.38
