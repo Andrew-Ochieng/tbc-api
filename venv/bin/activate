@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/code-x/Desktop/Dev-Jan/tbc_api/venv"
+VIRTUAL_ENV="/home/code-x/Desktop/Dev-Jan.24/tbc_api/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
